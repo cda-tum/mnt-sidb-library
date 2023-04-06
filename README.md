@@ -6,7 +6,7 @@ This is a collection of randomly generated SiDB layouts that can be used for ben
 
 - Make sure that [Git LFS](https://git-lfs.com/) is installed on your machine. 
 
-Folder structure of the ``random_layouts`` folder:
+#### Folder structure of the ``random_layouts``:
 - number_sidbs_#; # of SiDBs.
 - Each of these folders consists of a ``loc`` and a ``sqd`` folder.
 
