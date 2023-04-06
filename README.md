@@ -18,3 +18,10 @@ loc folder:
 - Data stored in the file: 
   -   The first two columns are the x,y coordinates of the SiDBs in nm.
   -   The last column is the charge state of the corresponding SiDB for the ground state (if the ground state is degenerate, several columns are provided).
+  
+  
+  #### Data overview:
+- Randomly generated layouts on a 40 X 40 grid.
+- There are layouts with `1` placed SiDB up to and including `35` placed SiDBs.
+- From 1 to 32 SiDBs: 500 Layouts for each.
+- From 33 to 35 SiDBs: 50 Layouts for each.
