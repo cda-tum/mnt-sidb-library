@@ -22,7 +22,7 @@ loc folder:
   
 #### Data overview
 
-- Randomly generated layouts on a 40 x 40 grid.
+- Randomly generated layouts on a 41 x 41 grid.
 - There are layouts with `1` placed SiDB up to and including `35` placed SiDBs.
 - From 1 to 32 SiDBs: 500 layouts for each.
 - From 33 to 35 SiDBs: 50 layouts for each.
