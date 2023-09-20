@@ -18,7 +18,7 @@ This is a collection of randomly generated SiDB layouts that can be used for ben
 - Each of these folders consists of a ``loc`` and a ``sqd`` folder.
 
 sqd folder:
-- Layouts are stored as ``sqd`` files. Layouts can be simulated in [SiQAD](https://github.com/siqad) or [fiction](https://github.com/marcelwa).
+- Layouts are stored as ``sqd`` files. Layouts can be simulated in [SiQAD](https://github.com/siqad) or [fiction](https://github.com/cda-tum/fiction).
 
 loc folder:
 - File names always have the same structure: The first number is the layout number, the last number is the µ-value used for the simulation.
